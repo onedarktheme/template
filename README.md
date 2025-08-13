@@ -3,6 +3,11 @@
     OneDark for <a href="https://github.com/onedarktheme/template">App</a>
 </h3>
 
+<p align="center">
+    <a href="https://github.com/onedarktheme/template/stargazers"><img src="https://img.shields.io/github/stars/onedarktheme/template?colorA=282c34&colorB=c678dd&style=for-the-badge"></a>
+    <a href="https://github.com/onedarktheme/template/issues"><img src="https://img.shields.io/github/issues/onedarktheme/template?colorA=282c34&colorB=d19a66&style=for-the-badge"></a>
+    <a href="https://github.com/onedarktheme/template/contributors"><img src="https://img.shields.io/github/contributors/onedarktheme/template?colorA=282c34&colorB=98c379&style=for-the-badge"></a>
+</p>
 
 ## 👀 Previews
 
